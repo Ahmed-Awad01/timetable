@@ -1,6 +1,6 @@
-# AI Department · Section 2 Timetable
+# Awad Timetable
 
-Mobile-friendly schedule and timetable for 3rd Year CSIT (Section 2) - Fall 2026.
+Mobile-friendly schedule and timetable for AI Department · Section 2 · 3rd Year CSIT · Fall 2026.
 
 ## Live Website
 Access the timetable directly on your phone or browser:
